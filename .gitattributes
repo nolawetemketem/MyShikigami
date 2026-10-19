@@ -1,2 +1,4 @@
 *.tox filter=lfs diff=lfs merge=lfs -text
 Plugins/MediaPipe/* filter=lfs diff=lfs merge=lfs -text
+Assets/*.mp4 filter=lfs diff=lfs merge=lfs -text
+Assets/*.mov filter=lfs diff=lfs merge=lfs -text
