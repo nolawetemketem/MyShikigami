@@ -1,7 +1,5 @@
 # **MyShikigami**  
 
-
-
 **directing flock by gesture** TouchDesigner, MediaPipe 
 
 
